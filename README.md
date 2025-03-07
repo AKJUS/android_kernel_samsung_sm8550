@@ -11,7 +11,6 @@
 - 使用TWRP或者 [kernel flasher](https://github.com/qlenlen/KernelFlasher/releases) 刷入
 - GKI模式开机即可集成KSU激活root权限
 - 若使用LKM模式则需自行修补init_boot
-- 适配KernelSU (24.12.24特别版)
 - 适配Apatch (自24.12.07的发行版开始)
 
 ### ⭐ OneDesign
