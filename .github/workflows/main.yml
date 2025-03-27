@@ -56,10 +56,7 @@ jobs:
             Commit: ${{ github.sha }}
             ### Note: 
             Flash the kernel zip with [kernel flasher](https://github.com/qlenlen/KernelFlasher/releases) or TWRP
-            - kalama-5.15.lts-KSU.zip: Use with tiann/KernelSU
-            - kalama-5.15.lts-KSU-susfs.zip: Use with tiann/KernelSU and susfs
-            - kalama-5.15.lts-NEXT.zip: Use with rifsxd/KernelSU-Next
-            - kalama-5.15.lts-LKM.zip: Pure LKM kernel
+            Both KSU and KSU-NEXT are provided, and each has a susfs edition available.
 
             If you prefer LKM mode, do not forget to patch your init_boot.
             ### CHANGELOG
