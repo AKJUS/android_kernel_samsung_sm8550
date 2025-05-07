@@ -14,7 +14,7 @@
 - 适配Apatch (自24.12.07的发行版开始)
 
 ### ⭐ OneDesign
-- stop
+- 仅供交流学习【暂停更新】
 
 ### 📰 Kernel Source Guideline
 1. Download stock source code from [Samsung Opensource](https://opensource.samsung.com/uploadSearch?searchValue=S918B)
