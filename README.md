@@ -26,3 +26,6 @@
 - Source from AOSP
 - Drivers from Samsung
 - Refer to some commits from `samsung-sm8550`
+
+### Support
+![捐赠/打赏](/mm_reward_qrcode_1747375785433.png)
