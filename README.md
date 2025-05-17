@@ -14,7 +14,7 @@
 - 适配Apatch (自24.12.07的发行版开始)
 
 ### ⭐ OneDesign
-- 仅供交流学习【暂停更新】
+- Feature extension for OneUI
 
 ### 📰 Kernel Source Guideline
 1. Download stock source code from [Samsung Opensource](https://opensource.samsung.com/uploadSearch?searchValue=S918B)
